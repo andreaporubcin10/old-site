@@ -42,7 +42,7 @@ const header = ({ dispatch }) => {
       <a href="https://github.com/lukejacksonn">
         <img
           className=${style.avatar}
-          src="https://github.com/lukejacksonn.png"
+          src="https://cdn1.iconfinder.com/data/icons/user-avatars/57/cook-512.png"
         />
       </a>
     </header>
